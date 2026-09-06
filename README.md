@@ -61,7 +61,10 @@ Também venho estudando **testes automatizados, Spring Security, Git e desenvolv
 </p>
 
 **Git • GitHub • Gradle • Maven**
-
+<p align="left">
+  <img height="180" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img height="180" src="./profile/top-langs.svg" alt="Top Languages" />
+</p>
 ---
 
 ## 📚 Atualmente estudando
