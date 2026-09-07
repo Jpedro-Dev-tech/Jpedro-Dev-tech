@@ -109,7 +109,8 @@ Projeto de análise de dados utilizando microdados educacionais, com etapas de t
 
 🐙 **GitHub:** [Jpedro-Dev-tech](https://github.com/Jpedro-Dev-tech)
 
-💼 **LinkedIn:** _linkedin.com/in/joaopedrodev_
+💼 **LinkedIn:**
+_linkedin.com/in/joaopedrodev_
 
 📧 **E-mail:** _joaopedrogoncalvesray@gmail.com_
 
