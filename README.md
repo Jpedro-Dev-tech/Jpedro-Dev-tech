@@ -1,130 +1,116 @@
-<p align="center">
+ <p align="center">
   <a href="https://github.com/Jpedro-Dev-tech">
-    <img src="profile/joaopedro.png" alt="João Pedro" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Bem-vindo+ao+meu+perfil;Desenvolvedor+Back-End+em+forma%C3%A7%C3%A3o&font=Fira+Code&center=true&width=600&height=45&color=00E5FF&vCenter=true&pause=1000&size=20" alt="Bem-vindo ao meu perfil — Desenvolvedor Back-End em formação" />
   </a>
 </p>
 
-<p align="center">
- <a href="https://github.com/Jpedro-Dev-tech">
-
-  <img src="https://readme-typing-svg.demolab.com/?lines=Bem-vindo%20ao%20meu%20perfil;Desenvolvedor%20Back-End%20em%20forma%C3%A7%C3%A3o;Java%20%7C%20Spring%20Boot%20%7C%20API%20REST;PostgreSQL%20%7C%20MySQL;Git%20%7C%20GitHub%20%7C%20JUnit%205&font=Fira%20Code&center=true&width=600&height=45&color=00E5FF&vCenter=true&pause=1000&size=20" />
-</a>
-<p align="center">
-  <a href="https://github.com/Jpedro-Dev-tech">
-    <img width="32px" alt="GitHub" title="GitHub" src="https://cdn.simpleicons.org/github/FF0000"/>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
- <a href="https://www.linkedin.com/in/joaopedrodev1/">
-  <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/>
-</a>
- &#8287;&#8287;&#8287;&#8287;&#8287;
-<br/>
-  
 ---
-## 👋 Olá, sou João Pedro
 
-🎯 **Buscando minha primeira oportunidade como Desenvolvedor Back-End (estágio)**
+## 👋 Olá! Sou João Pedro
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e **Desenvolvedor Back-End em formação**, com foco no ecossistema Java.
+🎯 **Em busca da minha primeira oportunidade em Back-End Java (estágio).**
 
-Atualmente desenvolvo projetos utilizando **Java, Spring Boot, API REST, JPA/Hibernate e bancos de dados relacionais**, buscando aplicar boas práticas de desenvolvimento, organização de código e arquitetura de software.
+Sou estudante de **Análise e Desenvolvimento de Sistemas na Universidade Estadual do Maranhão (UEMA)** e desenvolvedor Back-End em formação, com foco no ecossistema Java.
 
-Também venho estudando **testes automatizados, Spring Security e JWT**, transformando o conhecimento adquirido em projetos práticos.
+Tenho desenvolvido projetos práticos utilizando **Java, Spring Boot, APIs REST, Spring Data JPA e bancos de dados relacionais**, buscando aprimorar minha lógica de programação, organização de código e aplicação de boas práticas de desenvolvimento.
 
-🎓 **Formação:** Análise e Desenvolvimento de Sistemas — Universidade Estadual do Maranhão (UEMA)
+Atualmente, também estudo testes automatizados com JUnit e conceitos de segurança de aplicações com Spring Security e JWT.
 
-## 🌐Onde me encontrar
+Meu objetivo é transformar conhecimento em soluções práticas, evoluir tecnicamente e contribuir com uma equipe de desenvolvimento.
+
+## 🌐 Onde me encontrar
 
 <p align="left">
   <a href="https://github.com/Jpedro-Dev-tech">
-    <img src="https://img.shields.io/badge/GitHub-JPEDRO--DEV--TECH-181717?style=for-the-badge&logo=github" alt="GitHub - Jpedro-Dev-tech">
+    <img src="https://img.shields.io/badge/GitHub-JPEDRO--DEV--TECH-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/joaopedrodev1">
-    <img src="https://img.shields.io/badge/LinkedIn-JOÃO%20PEDRO-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - João Pedro">
+  <a href="https://www.linkedin.com/in/joaopedrodev1/">
+    <img src="https://img.shields.io/badge/LinkedIn-JOÃO%20PEDRO-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/_joao_ped4r0_">
-    <img src="https://img.shields.io/badge/Instagram-@_JOAO__PED4R0_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram - @_joao_ped4r0_">
+  <a href="https://www.instagram.com/_joao_ped4r0_/">
+    <img src="https://img.shields.io/badge/Instagram-@_JOAO__PED4R0_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:joaopedrogoncalvesray@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-JOÃO%20PEDRO-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail - João Pedro">
+    <img src="https://img.shields.io/badge/E--mail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
 </p>
 
-<h2>🛠️ Tech Stack</h2>
+## 🛠️ Tech Stack
 
-<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+### Back-End
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring" height="45" alt="Java e Spring" />
+</p>
 
-### Back-End & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=spring" height="45" alt="Spring">
-  <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" height="45" alt="PostgreSQL e MySQL">
+### Bancos de dados
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" height="45" alt="PostgreSQL e MySQL" />
 </p>
 
 ### Testes
-
 <p align="left">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg"
-    width="45"
-    height="45"
-    alt="JUnit"
-    title="JUnit"
-  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="45" height="45" alt="JUnit" title="JUnit" />
 </p>
 
-**JUnit**
-### Ferramentas
-
+### Ferramentas e ambiente de desenvolvimento
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,gradle,maven" height="45" alt="Git, GitHub, Gradle e Maven">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="45" alt="IntelliJ">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="45" alt="Linux">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="45" alt="MySQL">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="45" alt="PostgreSQL">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="45" alt="Vscode"/>
-          
+  <img src="https://skillicons.dev/icons?i=git,github,gradle,maven" height="45" alt="Git, GitHub, Gradle e Maven" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="45" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="45" alt="Linux" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="45" alt="Visual Studio Code" title="Visual Studio Code" />
 </p>
-
----
-
-## 📚 Atualmente estudando
-
-- Desenvolvimento de API REST com Spring Boot
-- Spring Security e autenticação com JWT
-- JPA e Hibernate
-- Testes unitários com JUnit
-- Arquitetura e boas práticas de desenvolvimento
-- Bancos de dados relacionais e SQL
 
 ---
 
 ## 🚀 Projetos em destaque
 
-### 👤 CadCliente — Sistema de Gerenciamento de Clientes
+### 🏛️ Procon MVP — Sistema de Gerenciamento de Cidadãos e Agendamentos
 
-CRUD completo para cadastro de clientes, construído em Java com arquitetura em camadas (**Controller → Service → DAO**), separando responsabilidades e facilitando manutenção.
+API REST desenvolvida com Java e Spring Boot para o gerenciamento de cidadãos e agendamentos de atendimento, com persistência de dados em PostgreSQL.
 
-- Persistência via **JDBC** com **PostgreSQL**
-- Constraint de **CPF único a nível de banco de dados**, garantindo integridade dos dados
-- Debug de problemas reais de conexão e schema durante o desenvolvimento
-- Base de um relatório técnico acadêmico com diagramas UML
+**Tecnologias:** Java, Spring Boot, Spring Data JPA e PostgreSQL.
 
-**Tecnologias:** `Java` `JDBC` `PostgreSQL` `SQL`
-🔗 https://github.com/Jpedro-Dev-tech/java-crud-clientes
+**Funcionalidades e implementação:**
+- Operações CRUD para gerenciamento de cidadãos.
+- Cadastro e gerenciamento de agendamentos.
+- Mapeamento de entidades e relacionamentos com JPA.
+- Persistência e consulta de dados com Spring Data JPA.
+- Endpoints REST com métodos HTTP e códigos de status apropriados.
+- Validação de dados de entrada, incluindo validação de CPF (em andamento).
 
-## 🔍 Outros projetos (exploração)
+🔗 **Repositório:** [Procon MVP](https://github.com/Jpedro-Dev-tech)
 
-**Análise de Dados Educacionais** — projeto de estudo em Python com Pandas, Matplotlib e técnicas de Machine Learning para tratamento e exploração de microdados educacionais.
-🔗 https://github.com/Jpedro-Dev-tech/Machine-Learning
+### 🏋️ Sistema de Gestão de Academia
+
+Projeto de sistema web voltado ao gerenciamento de treinos, avaliações antropométricas e acompanhamento de alunos, desenvolvido no contexto do meu projeto acadêmico.
+
+**Tecnologias:** Java, Spring Boot, Gradle e PostgreSQL.
+
+**Objetivo do projeto:**
+- Organizar informações relacionadas aos treinos e exercícios.
+- Apoiar o registro e o acompanhamento de avaliações antropométricas.
+- Desenvolver funcionalidades de gerenciamento por meio de uma API Back-End.
+
+🔗 **Repositório:** [Sistema de Gestão de Academia](https://github.com/Jpedro-Dev-tech/Sistema-Gerenciamento-Academia)
+
+---
+
+## 📚 Atualmente estudando
+
+- Desenvolvimento de APIs REST com Spring Boot.
+- Spring Security e autenticação com JWT.
+- Persistência de dados com JPA e Hibernate.
+- Testes automatizados com JUnit.
+- Arquitetura de software e boas práticas de desenvolvimento.
+- Bancos de dados relacionais e SQL.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="467" height="195" src="./profile/stats.svg" alt="GitHub Stats" />
-  <img width="467" height="195" src="./profile/top-langs.svg" alt="Top Languages" />
+  <img width="467" height="195" src="./profile/stats.svg" alt="Estatísticas do GitHub" />
+  <img width="467" height="195" src="./profile/top-langs.svg" alt="Linguagens mais utilizadas" />
 </p>
 
 ---
