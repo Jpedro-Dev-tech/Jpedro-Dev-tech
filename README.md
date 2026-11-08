@@ -8,15 +8,15 @@
 
 ## 👋 Olá! Sou João Pedro
 
-🎯 **Em busca da minha primeira oportunidade em Back-End Java (estágio).**
+Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Estadual do Maranhão e estou construindo minha trajetória profissional na área de desenvolvimento de software.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na Universidade Estadual do Maranhão (UEMA)** e desenvolvedor Back-End em formação, com foco no ecossistema Java.
+Tenho me dedicado ao ecossistema Java, desenvolvendo projetos e aplicando conhecimentos em Programação Orientada a Objetos, Spring Boot, APIs REST, Spring Data JPA e bancos de dados relacionais.
 
-Tenho desenvolvido projetos práticos utilizando **Java, Spring Boot, APIs REST, Spring Data JPA e bancos de dados relacionais**, buscando aprimorar minha lógica de programação, organização de código e aplicação de boas práticas de desenvolvimento.
+Minha evolução acontece por meio da prática, da resolução de problemas e do aprofundamento contínuo dos conceitos de desenvolvimento.
 
-Atualmente, também estudo testes automatizados com JUnit e conceitos de segurança de aplicações com Spring Security e JWT.
+Atualmente, também estudo testes automatizados com JUnit e segurança de aplicações com Spring Security e JWT.
 
-Meu objetivo é transformar conhecimento em soluções práticas, evoluir tecnicamente e contribuir com uma equipe de desenvolvimento.
+Busco uma oportunidade de estágio em Back-End Java para contribuir com meus conhecimentos, aprender com profissionais experientes e participar da construção de soluções de software.
 
 ## 🌐 Onde me encontrar
 
