@@ -17,7 +17,11 @@ Minha evolução acontece por meio da prática, da resolução de problemas e do
 Atualmente, também estudo testes automatizados com JUnit e segurança de aplicações com Spring Security e JWT.
 
 Busco uma oportunidade de estágio em Back-End Java para contribuir com meus conhecimentos, aprender com profissionais experientes e participar da construção de soluções de software.
+---
 
+## 📈 Histórico de Contribuições
+
+[![GitHub Contributions](https://gitshine.com/card/Jpedro-Dev-tech?theme=dark)](https://gitshine.com/stats/Jpedro-Dev-tech)
 ## 🌐 Onde me encontrar
 
 <p align="left">
