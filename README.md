@@ -114,7 +114,12 @@ Projeto de sistema web voltado ao gerenciamento de treinos, avaliações antropo
 
 <p align="center">
   <img width="467" height="195" src="./profile/stats.svg" alt="Estatísticas do GitHub" />
-  <img width="467" height="195" src="./profile/top-langs.svg" alt="Linguagens mais utilizadas" />
+ <!--- <img width="467" height="195" src="./profile/top-langs.svg" alt="Linguagens mais utilizadas" />
+ --->
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Jpedro-Dev-tech&theme=tokyonight" width="467" height="195" />
+</p>
+
 
 ---
