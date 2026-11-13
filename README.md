@@ -16,7 +16,8 @@ Minha evolução acontece por meio da prática, da resolução de problemas e do
 
 Atualmente, também estudo testes automatizados com JUnit e segurança de aplicações com Spring Security e JWT.
 
-Busco uma oportunidade de estágio em Back-End Java para contribuir com meus conhecimentos, aprender com profissionais experientes e participar da construção de soluções de software.
+Estou em busca de uma oportunidade de estágio em Back-End Java, na qual possa demonstrar minha dedicação, colocar meus conhecimentos em prática e continuar evoluindo como desenvolvedor.
+
 ---
 
 ## 📈 Histórico de Contribuições
@@ -64,9 +65,7 @@ Busco uma oportunidade de estágio em Back-End Java para contribuir com meus con
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="45" alt="Visual Studio Code" title="Visual Studio Code" />
 </p>
 
----
-
-## 🚀 Projetos em destaque
+<!---## 🚀 Projetos em destaque
 
 ### 🏛️ Procon MVP — Sistema de Gerenciamento de Cidadãos e Agendamentos
 
@@ -82,9 +81,9 @@ API REST desenvolvida com Java e Spring Boot para o gerenciamento de cidadãos e
 - Endpoints REST com métodos HTTP e códigos de status apropriados.
 - Validação de dados de entrada, incluindo validação de CPF (em andamento).
 
-🔗 **Repositório:** [Procon MVP](https://github.com/Jpedro-Dev-tech)
+🔗 **Repositório:** [Procon MVP](https://github.com/Jpedro-Dev-tech)--->
 
-### 🏋️ Sistema de Gestão de Academia
+<!---### 🏋️ Sistema de Gestão de Academia
 
 Projeto de sistema web voltado ao gerenciamento de treinos, avaliações antropométricas e acompanhamento de alunos, desenvolvido no contexto do meu projeto acadêmico.
 
@@ -96,11 +95,11 @@ Projeto de sistema web voltado ao gerenciamento de treinos, avaliações antropo
 - Desenvolver funcionalidades de gerenciamento por meio de uma API Back-End.
 
 🔗 **Repositório:** [Sistema de Gestão de Academia](https://github.com/Jpedro-Dev-tech/Sistema-Gerenciamento-Academia)
-
+--->
 ---
 
 ## 📚 Atualmente estudando
-
+- Java e POO
 - Desenvolvimento de APIs REST com Spring Boot.
 - Spring Security e autenticação com JWT.
 - Persistência de dados com JPA e Hibernate.
